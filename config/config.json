@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "!pass4sure",
+    "database": "getwoka",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "postgres",
+    "password": "!pass4sure",
+    "database": "getwoka",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "postgres",
+    "password": "!pass4sure",
+    "database": "getwoka",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}
